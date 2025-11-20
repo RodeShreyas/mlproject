@@ -100,3 +100,6 @@ Streamlit Cloud
 
 ## Output
 The model predicts the final math exam score of a student.
+
+## Conclusion
+This end-to-end machine learning project successfully demonstrates the complete lifecycle of building, training, evaluating, and deploying a predictive model to estimate a student’s exam performance based on multiple academic and personal features.
