@@ -3,7 +3,7 @@
 ## Introduction
 ➢ The Student Exam Performance Prediction project is an end-to-end Machine Learning system designed to predict a student’s exam score based on various academic, demographic, and personal factors. The goal of this project is to demonstrate a complete ML lifecycle—from data ingestion and preprocessing to model training, evaluation, and deployment.
 
-➢ This project follows a production-ready architecture with modular code, exception handling, logging, reusable utilities, and CI/CD-friendly structure. The final model is deployed as an interactive Streamlit web application, allowing users to input student details and instantly receive a predicted performance score.
+➢ This project follows a production-ready architecture with modular code, exception handling, logging, and reusable utilities. The final model is deployed as an interactive Streamlit web application, allowing users to input student details and instantly receive a predicted performance score.
 
 ➢ This project showcases industry-standard ML project structure and is suitable for resumes, interviews, and demonstrating real-world ML engineering skills.
 
